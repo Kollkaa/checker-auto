@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --max-old-space-size=8192 index",
-    "build": "gulp build"
+    "build": "nodemon --max-old-space-size=8192 index"
   },
   "author": "Mykola Mykhailov",
   "license": "ISC",
