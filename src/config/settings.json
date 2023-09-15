@@ -1,0 +1,13 @@
+{
+  "DB_HOST":"127.0.0.1",
+  "DB_USER":"postgres",
+  "DB_PASS":"1234",
+  "DB_DATABASE":"learner",
+  "DB_PORT":"5432",
+
+  "pk_key":"6LfvG6I2MxlnIGuNq6arT0Ou9RIoWoy53nSJYae3n5P5MhKooOyGg5p32ijOjziR",
+  "sc_key":"ff9xk8dUwoHJqVfI5v6Vo3hsGkUA0kGFSRpK9xeW2J8CwEr5mxIebbOfQb1fdcla",
+  "port":43123,
+    "uploads": "/home/nazar91/zsusiteData/uploads",
+    "logsPath": "/home/nazar91/zsusiteData/logs"
+  }
